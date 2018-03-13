@@ -1,0 +1,253 @@
+@charset "UTF-8";
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img {
+    margin: 0;
+    padding: 0;
+}
+fieldset, img, input, button {
+    border: none;
+    padding: 0;
+    margin: 0;
+    outline-style: none;
+}
+ul, ol {
+    list-style: none;
+}
+input {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-family: "SimSun","宋体";
+}
+select, input {
+    vertical-align: middle;
+}
+select, input, textarea {
+    font-size: 12px;
+    margin: 0;
+}
+textarea {
+    resize: none;
+}
+img {
+    border: 0;
+    vertical-align: middle;
+}
+table {
+    border-collapse: collapse;
+}
+body {
+    font:12px/150% Arial,Verdana,"\5b8b\4f53";
+    color:#666;
+    background: #fff; 
+}
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear:both;
+}
+.clearfix {
+    *zoom: 1;
+}
+a {
+    color:#666;
+    text-decoration: none;
+}
+a:hover {
+    color:#c81623;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 100%;
+}
+s, i, em {
+    font-style: normal;
+    text-decoration: none;
+}
+.col-red {
+    color: #c81623!important;
+}
+.w {
+    width: 1000px;
+    margin: 0 auto;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.al {
+    text-align: left;
+}
+.ac {
+    text-align: center;
+}
+.ar {
+    text-align: right;
+}
+.hide {
+    display: none;
+}
+
+
+.topbar {
+    height: 30px;
+    background: #FCF5EB;
+    line-height: 30px;
+    font-size:13px;
+}
+.topbar .fl {
+    position: relative;
+}
+.topbar .fl h1{
+    font-weight: 600;
+    float:left;
+}
+.topbar .fl span {
+    background: url(../images/collection.jpg);
+    width: 15px;
+    height: 15px;
+    float:left;
+    position: absolute;
+    top:8px;
+    left:-17px;
+}
+.topbar .fr {
+    color: #030909;
+}
+
+.logobar {
+    background: #1D7AD9;
+    height: 72px;
+    padding-top:13px;
+}
+.logo {
+    margin-right:143px;
+}
+.search input{
+    width: 360px;
+    height: 35px;
+    border:1px solid #FF8B00;
+    float:left;
+}
+.search button {
+    width: 70px;
+    height: 37px;
+    background: #FF8B00;
+    color:#fff;
+    line-height: 37px;
+}
+.search {
+    margin-top:11px;
+}
+.shopcart {
+    margin-right:70px;
+    height: 35px;
+    width: 130px;
+    background: #FF8B00;
+    margin-top:11px;
+    color:#fff;
+    line-height: 35px;
+    font-size:14px;
+    padding-left:15px;
+}
+.shopcart .title {
+    background: url(../images/shopCar.jpg) no-repeat 0px center ;
+    padding-left:28px;
+    display:inline-block;
+    font:600 13px/35px "微软雅黑";
+    border-right:1px solid #FEF4F2;
+    padding-right:8px;
+}
+.shopcart .num {
+    margin-left:10px;
+    padding-right:21px;
+    background: url(../images/arrow.jpg) no-repeat 15px center;
+}
+
+.nav {
+    background: #1468C0;
+    height: 36px;
+}
+.nav .fl{
+    margin-left:175px;
+}
+.nav .fl .dt {
+    font:600 13px/36px "微软雅黑";
+    color:#fff;
+    height: 36px;
+    padding:2px 37px;
+    
+}
+.nav .fl .dt i {
+    background: url(../images/dropArrow.jpg) no-repeat left center;
+    width: 11px;
+    height: 7px;
+    display:inline-block;
+    margin-left:10px;
+}
+.nav .fl .dd {
+    background: #4594F9;
+    margin-top:-4px;
+}
+.item {
+    width: 129px;
+    height: 40px;
+    color:#fff;
+    border-bottom:1px solid #3986EE;
+    padding:12px 0px;
+    padding-right:32px;
+    padding-left:12px;
+    background: url(../images/rightArrow.jpg) no-repeat 162px 17px;
+}
+.item dd,.item dt {
+    float:left;
+   margin-right:7px;   
+}
+.current {
+    background: url(../images/class_bg.jpg) no-repeat;
+    width: 48px;
+    height: 20px;
+    padding-left:7px;
+}
+ul .navli {
+    float:left;
+    width:96px;
+    height: 36px;
+    background: #1468C0;
+    color:#fff;
+    line-height: 36px;
+    text-align: center;
+    font-weight: 600;
+}
+.footer {
+    margin-top: 41px;
+    background: #D4D4D4;
+    height: 215px;
+    padding-top:45px;
+    text-align: center;
+}
+.footer {
+    color:#000;
+}
+.footer a {
+    padding:5px;
+}
+.footer a:link {
+    color:#000;
+}
+.footer p {
+    margin:5px;
+}
+.tu img {
+    margin:10px;
+}
+.tu li {
+    float:left;
+}
+.tu {
+    margin-left:358px;
+    margin-top:15px;
+}

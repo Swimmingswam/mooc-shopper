@@ -1,0 +1,128 @@
+.main {
+    margin-left:176px;
+}
+.list {
+    width: 185px;
+    background: #F3F3F3;
+    margin-top:17px;
+    border:1px solid #D8D8D8;
+    float:left;
+    margin-left:-194px;
+}
+.list h4 {
+    height: 35px;
+    width: 185px;
+    border-bottom:1px solid #D7D7D7;
+    text-align: center;
+    font:600 15px/35px "宋体";
+    color:#000;
+}
+.liitem h5 {
+    font:600 13px/13px "宋体";
+    color:#000;
+}
+.itemul {
+    margin:16px 0px;
+  
+}
+.itemul li {
+    float:left;
+    width: 72px;
+    height: 26px;
+}
+.liitem {
+    padding:14px 20px;
+    border-bottom:1px solid #D7D7D7;
+}
+.slider {
+    overflow: hidden;
+    width: 808px;
+    height: 344px;
+    position: relative;
+    margin-top:17px;
+    float:left;
+    margin-left:-4px;
+}
+.slider .picul {
+    width:500%;
+    position: absolute;
+}
+.slider .picul li ,.slider .arrowul li{
+    float:left;
+}
+.slider .arrowul li a {
+    width: 21px;
+    height: 6px;
+    margin:10px;
+    background: #ccc;
+    display:block;
+    cursor: pointer;
+}
+.slider .arrowul {
+    position: absolute;
+    bottom:21px;
+    left:340px;
+}
+.slider .arrowul a:hover {
+    background:#FF7A00
+}
+.project {
+    width: 808px;
+    height: 597px;
+    margin-left:5px;
+    margin-top:10px;
+    float:left;
+}
+.project .h3 {
+    width: 170px;
+    height: 44px;
+    border-bottom:2px solid #295F8D;
+    font:600 14px/44px "宋体";
+    color:#000;
+    padding-left:8px;
+    float: left;
+}
+.project .emp {
+    width: 630px;
+    height: 44px;
+    border-bottom:2px solid #C6C6C6;
+    display:inline-block;
+    margin-left:-1px;
+    float:left;
+}
+.plis {
+    width: 808px;
+    height: 553px;
+    margin-top:44px;
+}
+.pitem {
+    width: 195px;
+    height: 287px;
+    float:left;
+}
+.content {
+    padding:11px;
+    margin:5px 0;
+    margin-top:-10px;
+}
+.content h6 {
+    color:#FD156B;
+    font:700 13px/13px "宋体";
+    padding-top:3px;
+}
+.pitem span {
+    float:left;
+    margin:3px;
+    margin-left:0px;
+}
+.star li {
+    background: url(../images/xing.gif) no-repeat left 3px;;
+    width: 13px;
+    height: 17px;
+    float:left;
+    margin:3px;
+}
+.main #margin {
+    margin-left:176px;
+    margin-bottom:40px;
+}

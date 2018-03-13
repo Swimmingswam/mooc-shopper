@@ -1,0 +1,17 @@
+.topbar {
+    background: #1D7AD9;
+    height: 84px;
+    width: 100%;
+}
+.logo {
+    margin-left: 480px;
+    padding:12px 0;
+}  
+.logo img,.logo h3 {
+    float:left;
+    margin-right:20px;
+}
+.logo .title {
+    font:900 22px/63px "微软雅黑";
+    color:#fff;
+}

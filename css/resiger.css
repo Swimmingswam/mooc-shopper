@@ -1,0 +1,52 @@
+.resiger {
+    margin:11px 360px;
+    border:1px solid #D1CBCB;
+    padding:15px 76px;
+}
+.resiger li {
+    font:500 13px/13px "宋体";
+    color:#6B7278;
+}
+.resiger .input{
+    border:1px solid #9B9B9B;
+    width: 265px;
+    height: 33px;
+    
+}
+.resiger button {
+    width: 268px;
+    height: 33px;
+    background: #DCE0E3;
+    color:#535353;
+    font:600 14px/33px "宋体";
+    border:1px solid #DCE0E3;
+    margin-left:109px;
+}
+.resiger li i {
+    color:#C22D40;
+    margin-right:5px;
+    float:none;
+}
+.title {
+    width: 110px;
+    height: 33px;
+    display:inline-block;
+    line-height: 33px;
+    text-align: right;
+}
+li i,li span,li .input {
+    float:left;
+}
+li div {
+    float:left;
+}
+.li {
+    width: 392px;
+    height: 67px;
+}
+.agree{
+    width: 277px;
+    height: 40px;
+    margin-left:105px;
+}
+

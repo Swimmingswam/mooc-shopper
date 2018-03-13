@@ -1,0 +1,241 @@
+.main {
+    margin-left:176px;
+}
+.list {
+    width: 185px;
+    background: #F3F3F3;
+    margin-top:17px;
+    border:1px solid #D8D8D8;
+    float:left;
+    margin-left:-194px;
+}
+.list h4 {
+    height: 35px;
+    width: 185px;
+    border-bottom:1px solid #D7D7D7;
+    text-align: center;
+    font:600 15px/35px "宋体";
+    color:#000;
+}
+.liitem h5 {
+    font:600 13px/13px "宋体";
+    color:#000;
+}
+.itemul {
+    margin-top:16px;
+}
+.itemul li {
+    width: 80px;
+    height: 26px;
+}
+.liitem {
+    padding:14px 20px;
+    padding-bottom:0px;
+    border-bottom:1px solid #D7D7D7;
+}
+.menu {
+    width: 820px;
+    border :1px solid #CBCBCB;
+    border-left:0px;
+    border-right:0px;
+    border-top:0px;
+    margin:18px 14px;
+    float:left;
+}
+.hang dt a {
+    width: 110px;
+    height: 30px;
+    text-align: center;
+    font:400 13px/30px "宋体";
+    color:#000;
+}
+
+.hang a {
+    float:left;
+    display:inline-block;
+    color:#558DD8;
+}
+.limit a {
+    width: 28px;
+    height: 18px;
+    background: #337ED9;
+    color:#fff;
+    margin:5px 30px;
+    margin-left:0px;
+}
+.hang ul li {
+    width: 125px;
+    height: 15px;
+    margin-top:7px;
+    float:left;
+}
+.hang {
+    width: 820px;
+    height: 33px;
+    border-bottom:1px dotted #B5B5B5;
+}
+.spical {
+    height: 97px;
+    border-bottom:1px solid #B5B5B5;
+}
+.spical ul {
+    margin-left:30px;
+    width: 570px;
+}
+.spical dt a {
+    height: 97px;
+}
+.spical .limit a {
+    margin-bottom: 72px;
+}
+.spical ul {
+    width: 820px;
+}
+.more {
+    height: 8px;
+    border:1px solid #DCDCDC;
+    width: auto;
+    float:left;
+    margin:8px 10px 0px 40px;
+    padding:7px 12px;
+    line-height: 10px;
+}  
+.more a {
+    background: url(../images/icon/down-2.png) no-repeat right center;
+    padding-right:14px;
+    color:#5F5E63;
+} 
+.last {
+    height: 40px;
+    border:0px;
+}
+.last dt a{
+    line-height: 40px;
+}
+.goods-detail {
+    width: 794px;
+    height: 32px;
+    margin:0px 20px;
+    border:1px solid #D7D7D7;
+    background: #F6F6F8;
+    float:left;
+}
+.send {
+    float:left;
+}
+.show_select {
+    border:1px solid #666;
+    width: 92px;
+    height: 96px;
+    position: absolute;
+    top:28px;
+    left:40px;
+    padding:9px 6px;
+    display:none;
+}
+.show_select li {
+    width: 92px;
+    height: 20px;
+}
+.send s,.send h3,.send span {
+    float:left;
+}
+.send s {
+    width: 40px;
+    height: 31px;
+    text-align: center;
+    line-height: 31px;
+}
+.send h3 {
+    height: 20px;
+    border:1px solid #BEBEBE;
+    padding:2px 21px 2px 11px ;
+    margin:3px 0px;
+    background: #fff;
+}
+.select {
+    position: relative;
+}
+.send i {
+    background: url(../images/icon/down-3.png) no-repeat;
+    width: 8px;
+    height: 4px;
+    display:inline-block;
+    position: absolute;
+    top:15px;
+    right:9px;
+}
+.goods {
+    float:right;
+    margin:8px 81px;
+}
+.goods em {
+    color:#DB0600;
+    font-weight: 700;
+}
+.pro-list {
+    float:left;
+    margin-left:20px;
+    width: 795px;
+}
+.pro-list .item1 {
+    width: 264px;
+    height: 338px;
+    float:left;
+    margin-left:-1px;
+}
+.item1 img {
+   margin-left:22px;
+}
+.item1 p a {
+    margin-left:14px;
+    margin-right:15px;
+    color:#000;
+    display:inline-block;
+}
+.item1 h2 {
+    color:#D32560;
+    font-weight: 900;
+    margin-left:14px;
+    margin-top:15px;
+}
+.item1 h3 a{
+    color:#6680A1;
+    display:inline-block;
+    width: 90px;
+    height: 20px;
+    background: url(../images/icon/cart-2.png) no-repeat left center;
+    padding-left:15px;
+    margin-left:15px;
+}
+.item1 a:hover {
+    text-decoration: underline;
+}
+.page {
+    float:left;
+    width: 755px;
+    height: 26px;
+    margin-left:225px;
+}
+.page li ,.page input,.page button{
+    float:left;
+    padding:3px 12px;
+    border:1px solid #C9C9C9;
+    margin-right:5px;
+}
+.page ul .special1 {
+    border:0px;
+}
+.page p ,.page button{
+    float:left;
+    line-height: 26px;
+}
+.page input {
+    width: 41px;
+    height: 20px;
+}
+.page button {
+    line-height: 20px;
+    margin-left:5px;
+    background: #EAEAEA;
+}

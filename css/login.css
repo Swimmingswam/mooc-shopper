@@ -1,0 +1,60 @@
+.login {
+    margin:11px 445px;
+    border:1px solid #D1CBCB;
+    padding:17px 77px;
+}
+.login li {
+    margin-bottom:10px;
+    font:500 13px/13px "宋体";
+    color:#6B7278;
+}
+.login .input{
+    border:1px solid #9B9B9B;
+    width: 300px;
+    height: 33px;
+    position: relative;
+}
+.user,.password {
+    width: 16px;
+    height: 16px;
+    right:8px;
+    top:8px;
+    position: absolute;
+}
+.user {
+    background: url(../images/icon/login1.png) no-repeat;
+}
+.password {
+    width: 14px;
+    height: 19px;
+    background: url(../images/icon/login2.gif) no-repeat;
+}
+.login button {
+    width: 300px;
+    height: 33px;
+    background: #DCE0E3;
+    color:#535353;
+    font:600 14px/33px "宋体";
+    border:1px solid #DCE0E3;
+}
+.partner p {
+    margin-top:3px;
+}
+.partner a {
+    margin:1px;
+}
+.partner a i {
+    background: url(../images/icon/down-2.png) no-repeat;
+    width: 7px;
+    height: 5px;
+    display: inline-block;
+    margin-left:3px;
+}
+.main .button {
+    background: #7BBE57;
+    color:#fff;
+    font:500 12px/30px "微软雅黑";
+    width: 115px;
+    height: 30px;
+    margin-left:790px;
+}

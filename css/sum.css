@@ -1,0 +1,170 @@
+.path img{
+    margin-top:10px;
+   margin-left:100px;
+}
+.path ul {
+  margin-top:7px;
+}
+.path ul li {
+    float:left;
+    margin-left:100px;
+    color:#fff;
+    font-weight: 500;
+}
+.info {
+    border:1px solid #C9C9C9;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.i-title {
+    width: 985px;
+    height: 33px;
+    background: #F2F2F2;
+    font:500 16px/33px "微软雅黑";
+    color:#443D35;
+    padding-left:13px;
+}
+.i-content {
+    padding:30px 40px;
+}
+.i-content li {
+    margin-bottom:16px;
+}
+.i-content li i {
+    color:#CA2F33;
+    font:500 12px/15px "宋体";
+    margin-right:8px;
+}
+.i-content .ul input,.ul2 input {
+    width: 114px;
+    height: 22px;
+    border:1px solid #C9C9C9;
+    margin:0 3px;
+    padding-left:6px;
+}
+.commit {
+    background: #4F88D7;
+    width: 112px;
+    height: 26px;
+    color:#fff;
+}
+.i-content input {
+    margin:0 3px;
+    padding-left:6px;
+}
+.ul1 span {
+    background: url(../images/icon/wechat.png) no-repeat 0px 0px;
+    display:inline-block;
+    padding-left:30px;
+    margin-left:20px;
+}
+.ul1 p {
+    display:inline-block;
+    margin-left:20px;
+}
+.bill {
+    margin-bottom:32px;
+}
+.btn2 button{
+    margin-right:12px;
+    width: 68px;
+    height: 23px;
+    padding:0 10px;
+    background: #F5F5F5;
+}
+.btn2 .b-one {
+    background: #3A93ED;
+    color:#fff;
+}
+.i-title a {
+    float:right;
+    font-size:13px;
+    color:  #3A93ED;
+    margin-right:40px;
+}
+.i-title a:hover {
+    text-decoration: underline;
+}
+.th {
+    height: 32px;
+    border-bottom:1px solid #C9C9C9;
+}
+.th li ,.tr li{
+    float:left;
+    height: 32px;
+    margin-left:108px;
+}
+.th ul .first ,.tr ul .first{
+    width: 343px;
+    margin-left:0;
+}
+.tr {
+    width: 920px;
+    height: 118px;
+    border-bottom:1px solid #C9C9C9;
+}
+.tr .first {
+    height: 88px;
+}
+.f-l {
+    float:left;
+}
+.f-r {
+    float:right;
+    width: 256px;
+}
+.f-r a:hover {
+    text-decoration: underline;
+}
+.f-r h5 {
+    color:#000;
+    font-weight:500;
+    margin-top:20px;
+}
+.red {
+    color:#CA2F33;
+}
+.other p {
+    margin:15px 0;
+}
+.other img {
+    float:left;
+}
+.other .tail {
+    float:left;
+}
+.other i {
+    background: url(../images/icon/check_prompt.png) no-repeat 0px 0px;
+    display:inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right:15px;
+}
+.tail a{
+    margin-bottom:30px;
+    display:inline-block;
+}
+.tail a:hover{
+   text-decoration: underline;
+   color:#000;
+}
+.tail p {
+    margin:0;
+    color:#000;
+}
+.other {
+    display:inline-block
+}
+.ii {
+    float: right;
+}
+.i-content em {
+    color:#FF0107;
+    font:900 23px/23px "微软雅黑";
+}
+.submit {
+    width: 164px;
+    height: 34px;
+    background: #FF0107;
+    margin-top:15px;
+}
